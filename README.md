@@ -1,9 +1,9 @@
 # TrackPlanningofUAV
 
 ## demo
-![](/Users/apple/Desktop/成功1.gif)
-![](/Users/apple/Desktop/成功2.gif)
-![](/Users/apple/Desktop/成功3.gif)
+![](https://github.com/HU75/TrackPlanningofUAV/tree/main/demo/1.gif)
+![](https://github.com/HU75/TrackPlanningofUAV/tree/main/demo/2.gif)
+![](https://github.com/HU75/TrackPlanningofUAV/tree/main/demo/3.gif)
 
 ## todo
 
